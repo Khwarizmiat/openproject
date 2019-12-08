@@ -1,6 +1,7 @@
 # OpenProject
 [<img src="https://travis-ci.org/opf/openproject.svg?branch=dev" alt="Build Status" />](https://travis-ci.org/opf/openproject)
 [![Code Climate](https://codeclimate.com/github/opf/openproject/badges/gpa.svg)](https://codeclimate.com/github/opf/openproject)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKhwarizmiat%2Fopenproject.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FKhwarizmiat%2Fopenproject?ref=badge_shield)
 
 OpenProject is a web-based project management software. Its key features are:
 
@@ -48,6 +49,9 @@ For more information on how to disclosure a security vulnerability, [please see 
 
 OpenProject is licensed under the terms of the GNU General Public License version 3.
 See [docs/COPYRIGHT.rdoc](docs/COPYRIGHT.rdoc) for details.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKhwarizmiat%2Fopenproject.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FKhwarizmiat%2Fopenproject?ref=badge_large)
 
 ## Credits
 
